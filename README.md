@@ -1,5 +1,7 @@
 # BRATS Deep Learning Pipeline
 
+Let's see the [`paper`](https://github.com/dugoalberto/Tumor_Segmentation/blob/main/egpaper_final.pdf).
+
 ## Overview
 
 This repository contains code to preprocess, train, and evaluate a 3D U-Net model on the BraTS (Brain Tumor Segmentation) dataset. The main script, `3dunet.py`, implements data loading, preprocessing (cropping, normalization), model definition, training loop with Dice loss, validation, learning rate scheduling, checkpointing, and uploading to Hugging Face.
