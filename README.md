@@ -1,4 +1,4 @@
-# BRATS Deep Learning Pipeline
+# A 3D UNet for Brats2020 challenge
 
 Let's see the [`paper`](https://github.com/dugoalberto/Tumor_Segmentation/blob/main/egpaper_final.pdf).
 
